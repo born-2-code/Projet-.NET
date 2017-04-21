@@ -1,0 +1,7 @@
+c:\users\nathanael anstett\documents\visual studio 2015\Projects\dll\dll\bin\Debug\dll.dll
+c:\users\nathanael anstett\documents\visual studio 2015\Projects\dll\dll\bin\Debug\dll.pdb
+c:\users\nathanael anstett\documents\visual studio 2015\Projects\dll\dll\bin\Debug\MySql.Data.dll
+c:\users\nathanael anstett\documents\visual studio 2015\Projects\dll\dll\bin\Debug\MySql.Data.xml
+c:\users\nathanael anstett\documents\visual studio 2015\Projects\dll\dll\obj\Debug\dll.csprojResolveAssemblyReference.cache
+c:\users\nathanael anstett\documents\visual studio 2015\Projects\dll\dll\obj\Debug\dll.dll
+c:\users\nathanael anstett\documents\visual studio 2015\Projects\dll\dll\obj\Debug\dll.pdb
